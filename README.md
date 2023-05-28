@@ -1,7 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/e7st2pmg1yi1uqjl?svg=true)](https://ci.appveyor.com/project/Garfy2/ahj-webworkers)
 
 
-WEB VERSION: 
+WEB VERSION: https://garfy2.github.io/ahj-webworkers/
 
 Правила сдачи задания:
 
